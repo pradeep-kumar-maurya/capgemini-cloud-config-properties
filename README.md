@@ -1,0 +1,1 @@
+# capgemini-cloud-config-properties
